@@ -4,5 +4,6 @@ public class Main {
         System.out.println("test commit 1");
         System.out.println("branch1 commit 1");
         System.out.println("branch1 commit 2");
+        System.out.println("branch1 commit 3");
     }
 }
