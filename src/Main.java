@@ -9,5 +9,6 @@ public class Main {
         System.out.println("local change2");
         System.out.println("local change2");
         System.out.println("local change2");
+        System.out.println("remote change2");
     }
 }
